@@ -45,7 +45,8 @@
       "/pub/",
       "/test/",
       "/node_modules/",
-      "/config/"
+      "/config/",
+      "/test/"
     ]
   }
 }
